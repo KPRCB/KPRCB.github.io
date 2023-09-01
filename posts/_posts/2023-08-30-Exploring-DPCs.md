@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exploring DPCs
+title: Deferring APCs ﹕KeEnterGuardedRegion, KeEnterCriticalRegion
 date: 2023-08-30 17:17
 categories: [Reverse engineering, Windows, Kernel]
 ---
